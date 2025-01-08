@@ -8,15 +8,15 @@ redirect_from:
 ---
 
 During Ph.D period:
-	Development of Multi-Principal Element Alloys (MPEAs) induced by Mg evaporation for enhanced water-splitting electrocatalysis.
-	Application of first-principles simulations to understand the electrocatalytic mechanisms on metal oxides and alloys.
-	Optimization of pulsed laser irradiation parameters for nanomaterial synthesis by finite element method simulation.
-	Machine-learning assisted simulation to investigate the synthesis and evolution of alloy and ceramic.
-	Successful applications and completions of 2 supercomputation projects granted by The National Supercomputing Centre Singapore (NSCC): 
+· Development of Multi-Principal Element Alloys (MPEAs) induced by Mg evaporation for enhanced water-splitting electrocatalysis.
+·  Application of first-principles simulations to understand the electrocatalytic mechanisms on metal oxides and alloys.
+·  Optimization of pulsed laser irradiation parameters for nanomaterial synthesis by finite element method simulation.
+·  Machine-learning assisted simulation to investigate the synthesis and evolution of alloy and ceramic.
+·  Successful applications and completions of 2 supercomputation projects granted by The National Supercomputing Centre Singapore (NSCC): 
 1.	Scalable rapidly-prepared-electrodes for sustainable electrolytic hydrogen production in the industry (Project ID: 12003788, including 1152000 CPU hours and 4608000 GPU hours);
 2.	Exploring the impact of atomic lattice deformation on oxygen evolution reaction based on a pure face-centered cubic high-entropy alloy electrocatalyst (Project ID: 12003013, including 1228800 CPU hours and 2560000 GPU hours).
 During Master of Science period:
-	Application of density functional theory calculation to explore the electrocatalytic mechanism of dual-atom catalysis for oxygen reduction reaction (ORR).
+Application of density functional theory calculation to explore the electrocatalytic mechanism of dual-atom catalysis for oxygen reduction reaction (ORR).
 During Bachelor of Engineering period:
 	Numerical analysis of molten fuel fragmentation in nuclear reactor (Final Year Project);
 	Development of self-powered electrodeposition system for high-efficiency antibacterial activity (Internship);
@@ -24,7 +24,7 @@ During Bachelor of Engineering period:
 ![image](https://github.com/user-attachments/assets/f17367e8-c7f7-4bcf-a956-e3b6158cea4e)
 
 
-A data-driven personal website
+Research 
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
