@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "SINGAPORE"
-title                    : "ZHANG JIANGHONG / PhD"
+title                    : "ZHANG JIANGHONG"
 title_separator          : "-"
 name                     : &name "ZHANG JIANGHONG"
 description              : &description "personal description"
