@@ -9,19 +9,18 @@ author_profile: true
 
 Education
 ======
-* Nanyang Technological University,Doctor of Philosophy (Ph.D.), Material Science and Engineering,Aug 2022 - 2026 (expected)
+* Nanyang Technological University,Doctor of Philosophy (Ph.D.), Material Science and Engineering, Aug 2022 - 2026 (expected)
 * Nanyang Technological University, Master of Science, Material Science and Engineering, Aug 2021 - Jul 2022
 * Xiamen University Malaysia, Bachelor of Engineering, New Energy Science and Engineering, Sep 2017 - Jul 2021
     
 Skills
 ======
 *	Programming Skills:	Proficient in C, Python and Bash
-*	Operating systems	Linux, MacOS, Windows
+*	Operating systems:	Linux, MacOS, Windows
 *	Visualization software	Origin (Proficient), AutoCAD (Proficient), 3DMAX (Familiar), VMD, VESTA
 *	Machine learning:	Tensorflow
 *	Simulation Package:	COMSOL Multiphysics, Ansys (Fluent), VASP, Gaussian, LAMMPS, Atomic Simulation Environment (ASE), Pymatgen, 
-*	Material characterization and
-measurement	Scanning electron microscopy, Energy-dispersive X-ray spectroscopy, X-ray diffraction, Electrochemical measurement
+*	Material characterization and measurement: Scanning electron microscopy, Energy-dispersive X-ray spectroscopy, X-ray diffraction, Electrochemical measurement
 
 Honors
 ======
