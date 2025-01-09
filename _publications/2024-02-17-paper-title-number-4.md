@@ -1,4 +1,3 @@
-
 ---
 title: "Effect of Zr on the solid sintering process of SiBCN ceramics: Diffusion couple method experiment and DFT calculation"
 collection: publications
