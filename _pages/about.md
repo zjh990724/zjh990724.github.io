@@ -16,7 +16,7 @@ Feel free to explore my projects, publications, and interests. Let's connect and
 
 Research Projects
 ======
-![images_medium_jz2c01737_0006|400](https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863)
+![images_medium_jz2c01737_0006|100](https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863)
 
 
 Getting started
