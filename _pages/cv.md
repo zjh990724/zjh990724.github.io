@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-Nanyang Technological University,Doctor of Philosophy (Ph.D.),Material Science and Engineering,Aug 2022 - 2026 (expected)
-Nanyang Technological University, Master of Science| Material Science and Engineering,Aug 2021 - Jul 2022
-Xiamen University Malaysia,Bachelor of Engineering,New Energy Science and Engineering,Sep 2017 - Jul 2021
+Nanyang Technological University,Doctor of Philosophy (Ph.D.), Material Science and Engineering,Aug 2022 - 2026 (expected)
+Nanyang Technological University, Master of Science, Material Science and Engineering,Aug 2021 - Jul 2022
+Xiamen University Malaysia,Bachelor of Engineering, New Energy Science and Engineering,Sep 2017 - Jul 2021
 
 Work experience
 ======
