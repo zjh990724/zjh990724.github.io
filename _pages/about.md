@@ -17,7 +17,7 @@ Feel free to explore my projects, publications, and interests. Let's connect and
 Research Projects
 ======
 
-<img src="https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863" alt="图片描述" width="50"/>
+<img src="https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863" alt="图片描述" width="200"/>
 
 Getting started
 ======
