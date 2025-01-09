@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal homepage! I am Zhang Jianghong, a passionate researcher and Ph.D. candidate in Materials Science and Engineering at Nanyang Technological University (NTU), Singapore. My academic journey is rooted in the pursuit of innovative solutions for sustainable energy and material development, with a focus on high-entropy materials and multiscale simulations.
+Welcome to my personal homepage! I am Zhang Jianghong, a Ph.D. candidate in Materials Science and Engineering at Nanyang Technological University (NTU), Singapore. My academic journey is rooted in the pursuit of innovative solutions for sustainable energy and material development, with a focus on high-entropy materials and multiscale simulations.
 
-Throughout my academic and research career, I have cultivated expertise in the development and optimization of electrocatalysts for water-splitting applications, the integration of experimental and theoretical methodologies, and the use of machine-learning-assisted simulations to understand nanomaterials synthesis. My work is fueled by a curiosity to bridge fundamental science and practical applications in material innovation.
+Throughout my academic and research career, I have cultivated expertise in the development and optimization of electrocatalysts for water-splitting applications. My work is fueled by a curiosity to bridge fundamental science and practical applications in material innovation.
 
 Beyond research, I have had the privilege of contributing to academia as an invited journal reviewer and mentor, and I take pride in fostering a safe and collaborative laboratory environment. I am also a recipient of several prestigious awards, including the Gold Medal at the Chinese College Students’ "Internet Plus" Innovation and Entrepreneurship Competition.
 
