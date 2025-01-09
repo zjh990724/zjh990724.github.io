@@ -16,7 +16,7 @@ Feel free to explore my projects, publications, and interests. Let's connect and
 
 Selected Projects
 ======
-![images_medium_jz2c01737_0006](https://github.com/user-attachments/assets/8e9e14d5-ca42-4129-991c-d4f9ea111475)
+<img src="https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863" alt="图片描述" width="100"/>
 [Self-Powered Electrodeposition System for Sub-10-nm Silver Nanoparticles with High-Efficiency Antibacterial Activity](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c01737)
 
 
