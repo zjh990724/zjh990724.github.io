@@ -12,10 +12,10 @@ main:
     url: /News/    
 
   #- title: "Teaching"
-    url: /teaching/    
+   # url: /teaching/    
     
   #- title: "Portfolio"
-    url: /portfolio/
+    #url: /portfolio/
         
   #- title: "Blog Posts"
     url: /year-archive/
@@ -24,4 +24,4 @@ main:
     url: /cv/
     
   #- title: "Guide"
-    url: /markdown/
+    #url: /markdown/
