@@ -40,8 +40,8 @@ Publications
   
 Service and leadership
 ======
-•	Served as the invited reviewer for Journal of Energy Chemistry.
-•	Served as mentor for final year project of undergraduate student.
-•	Served as group leader of the research group, responsible for laboratory safety management.
-•	Served as fire warden of the School of Material Science and Engineering, NTU.
+**	Served as the invited reviewer for Journal of Energy Chemistry.
+*	Served as mentor for final year project of undergraduate student.
+*	Served as group leader of the research group, responsible for laboratory safety management.
+*	Served as fire warden of the School of Material Science and Engineering, NTU.
 
