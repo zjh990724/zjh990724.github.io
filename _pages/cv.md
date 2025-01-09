@@ -17,12 +17,12 @@ Education
     
 Skills
 ======
-•	Programming Skills:	Proficient in C, Python and Bash
-•	Operating systems	Linux, MacOS, Windows
-•	Visualization software	Origin (Proficient), AutoCAD (Proficient), 3DMAX (Familiar), VMD, VESTA
-•	Machine learning:	Tensorflow
-•	Simulation Package:	COMSOL Multiphysics, Ansys (Fluent), VASP, Gaussian, LAMMPS, Atomic Simulation Environment (ASE), Pymatgen, 
-•	Material characterization and
+*	Programming Skills:	Proficient in C, Python and Bash
+*	Operating systems	Linux, MacOS, Windows
+*	Visualization software	Origin (Proficient), AutoCAD (Proficient), 3DMAX (Familiar), VMD, VESTA
+*	Machine learning:	Tensorflow
+*	Simulation Package:	COMSOL Multiphysics, Ansys (Fluent), VASP, Gaussian, LAMMPS, Atomic Simulation Environment (ASE), Pymatgen, 
+*	Material characterization and
 measurement	Scanning electron microscopy, Energy-dispersive X-ray spectroscopy, X-ray diffraction, Electrochemical measurement
 
 Honors
@@ -40,7 +40,7 @@ Publications
   
 Service and leadership
 ======
-**	Served as the invited reviewer for Journal of Energy Chemistry.
+* Served as the invited reviewer for Journal of Energy Chemistry.
 *	Served as mentor for final year project of undergraduate student.
 *	Served as group leader of the research group, responsible for laboratory safety management.
 *	Served as fire warden of the School of Material Science and Engineering, NTU.
