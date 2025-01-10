@@ -8,4 +8,4 @@ venue: 'Journal of Materials Chemistry A'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2024/ta/d3ta05908a'
 ---
 
-<img width="189" alt="微信图片_20250110234719" src="https://github.com/user-attachments/assets/d9fde41b-5aad-4fec-95e7-f14d33efdf89" />
+<img width="400" alt="微信图片_20250110234719" src="https://github.com/user-attachments/assets/d9fde41b-5aad-4fec-95e7-f14d33efdf89" />
