@@ -8,4 +8,4 @@ venue: 'SCIENCE CHINA Chemistry'
 paperurl: 'https://www.sciengine.com/SCC/doi/10.1007/s11426-024-2394-8;JSESSIONID=c19158ee-5156-4054-b348-ef0d40691fdd'
 ---
 
-<img src="https://github.com/user-attachments/assets/d8287c8f-3aac-4ab0-bc23-0c64438e1646" alt="图片描述" style="width:50%;"/>
+<img width=600 src="https://github.com/user-attachments/assets/d8287c8f-3aac-4ab0-bc23-0c64438e1646" alt="图片描述" style="width:50%;"/>
