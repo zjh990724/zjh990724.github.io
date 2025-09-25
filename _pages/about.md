@@ -29,7 +29,7 @@ Selected Projects
   <img src="https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863" width="300"/>
 </p>
 <p style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 700; line-height: 1.5;">
-  <a href="https://doi.org/10.1016/j.nanoen.2025.110686" style="text-decoration: none; color: #2c3e50;">
+  <a href="https://doi.org/10.1021/acs.jpclett.2c01737" style="text-decoration: none; color: #2c3e50;">
     Self-Powered Electrodeposition System for Sub-10-nm Silver Nanoparticles with High-Efficiency Antibacterial Activity
   </a>
 </p>
