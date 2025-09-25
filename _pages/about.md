@@ -19,7 +19,7 @@ Selected Projects
 <p align="left">
   <img src="/images/TOC.png" width="500"/>
 </p>
-<p style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 500; line-height: 1.5;">
+<p style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 700; line-height: 1.5;">
   <a href="https://doi.org/10.1016/j.nanoen.2025.110686" style="text-decoration: none; color: #2c3e50;">
     Mg-evaporation induced amorphous multi-principal element alloys for advanced oxygen evolution reaction
   </a>
@@ -28,7 +28,7 @@ Selected Projects
 <p align="left">
   <img src="https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863" width="300"/>
 </p>
-<p style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 500; line-height: 1.5;">
+<p style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 700; line-height: 1.5;">
   <a href="https://doi.org/10.1016/j.nanoen.2025.110686" style="text-decoration: none; color: #2c3e50;">
     Self-Powered Electrodeposition System for Sub-10-nm Silver Nanoparticles with High-Efficiency Antibacterial Activity
   </a>
