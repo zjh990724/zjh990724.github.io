@@ -18,6 +18,7 @@ Selected Projects
 ======
 <p align="left">
   <img src="https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863" width="120"/>
+  (/images/TOC.tif)
 </p>
 <p>
   <a href="https://doi.org/10.1016/j.nanoen.2025.110686">
