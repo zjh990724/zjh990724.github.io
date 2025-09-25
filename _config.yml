@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
+#  !!! Write the personal information and link of social media!!!
 # Basic Site Settings
 locale                   : "SINGAPORE"
 title                    : "ZHANG JIANGHONG"
