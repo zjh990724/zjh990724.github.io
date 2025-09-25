@@ -25,6 +25,15 @@ Selected Projects
   </a>
 </p>
 
+</p>
+<p align="justify">
+<p style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: 400; line-height: 1.5;">
+  <a href="https://doi.org/10.1016/j.nanoen.2025.110686" style="text-decoration: none; color: #2c3e50;">
+    Multi-principal element alloys (MPEAs) have been recognized as emerged electrocatalysts that facilitate the high efficiency for oxygen evolution reaction   (OER). With the noble metals free, they are cost-effective and a potential candidate to replace the traditional RuO2 and IrO2.   The catalysis can be further improved through the construction of their lattice structures. This study proposes an innovative approach which makes use of pulsed laser irradiation to synthesize nano-sized amorphous MPEA particles. The low-boiling-point element Mg is incorporated with Fe, Co and Ni to synthesize MPEAs (FeCoNi)1-xMgx (x=0.05, 0.15, 0.25, 0.35). The high thermal temperature generated during the interaction between the laser beam and MPEAs gives rise to the evaporation of Mg leading to the amorphization. The increase of Mg content intensifies the amorphization extent. (FeCoNi)0.65Mg0.35 achieves a lower overpotential (256 mV@10 mA/cm2) for OER compared to the crystal counterparts and demonstrates long-term catalytic stability. Theoretical calculations reveal that amorphization strengthens OOH* adsorption energy due to improved charge transfer. This research provides insights into novel synthesis strategies and the catalytic mechanisms of amorphous alloys. 
+    Keywords: multi-principal element alloys (MPEAs), amorphization, pulsed laser irradiation, oxygen evolution reaction (OER), electrocatalysts.
+  </a>
+</p>
+
 <p align="left">
   <img src="https://github.com/user-attachments/assets/64ddebb5-378f-42ab-93fe-1428ea8c3863" width="300"/>
 </p>
