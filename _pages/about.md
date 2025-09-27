@@ -31,7 +31,7 @@ Selected Projects
     Keywords: multi-principal element alloys (MPEAs), amorphization, pulsed laser irradiation, oxygen evolution reaction (OER), electrocatalysts.
 </p>
 <p align="left">
-  <img src="/images/withhamzah.png" width="500"/>
+  <img src="/images/with hamzah.png" width="500"/>
 </p>
 <p style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 700; line-height: 1.5;">
   <a href="https://doi.org/10.1002/adfm.202507930" style="text-decoration: none; color: #2c3e50;">
