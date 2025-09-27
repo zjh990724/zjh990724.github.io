@@ -8,4 +8,4 @@ venue: 'Nano Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S221128552500045X?via%3Dihub'
 ---
 
-<img width="600" src="/images/TOC.png" alt="图片描述" style="width:50%;"/>
+<img width="600" src="/images/TOC.png" alt="图片描述" style="width:90%;"/>
