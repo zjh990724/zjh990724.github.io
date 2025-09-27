@@ -16,7 +16,6 @@ Feel free to explore my projects, publications, and interests. Let's connect and
 
 Selected Projects
 ======
-</p>
 <p style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: 700; line-height: 1.5;">
   <a href="https://doi.org/10.1016/j.nanoen.2025.110686" style="text-decoration: none; color: #2c3e50;">
     Mg-evaporation induced amorphous multi-principal element alloys for advanced oxygen evolution reaction
