@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Downloads"
-permalink: /downloads/
+permalink: /resources/
 author_profile: true
 ---
 ## 📁 Resources for Download
