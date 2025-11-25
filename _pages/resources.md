@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Downloads"
+title: "Resources"
 permalink: /resources/
 author_profile: true
 ---
