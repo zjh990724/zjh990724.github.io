@@ -3,8 +3,8 @@ title: "database"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-03-17-paper-title-number-1
-date: 2022-03-17
-venue: 'Nano Energy'
+date: 2025-11-25
+venue: 'under review'
 paperurl: '/files/paper1.pdf'
 ---
 
